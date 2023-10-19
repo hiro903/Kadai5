@@ -1,0 +1,26 @@
+[
+  {
+    "name": "グルタチオン",
+    "price": 5000,
+    "effect": ["抗酸化作用", "解毒作用"],
+    "active": true
+  },
+  {
+    "name": "酵素",
+    "price": 2000,
+    "effect": ["消化・吸収を助ける", "腸内環境を整える"],
+    "active": false
+  },
+  {
+    "name": "ビタミンD",
+    "price": 1000,
+    "effect": ["骨の強化", "現代病の予防"],
+    "active": true
+  },
+  {
+    "name": "ヒアルロン酸",
+    "price": 4000,
+    "effect": ["水分保持", "乾燥を防ぐ"],
+    "active": true
+  }
+]
